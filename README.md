@@ -21,13 +21,13 @@
 - [ ] Read Sorting Algorithms
   - Can you memorize one algorithm? What is it?
 - [x] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
-  - 
+  - ...
 - [x] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
-  - 
+  - ...
 
 **Coding**
 
-- [X] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
+- [x] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
   - http://exercism.io/submissions/94fa019b79be4d39b5cad85544d38e1d
   - http://exercism.io/submissions/6a0f411cad5d4a37bca75cf78eadfb39
 
