@@ -7,25 +7,30 @@
 
 **Strings**
 
-- [ ] Read String Questions in Interviews.
-  - Using a few sentences, describe what you've learned.
-- [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
-  - Using a few sentences, describe what you've learned.
-- [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
-  - Using a few sentences, describe what you've learned.
+- [x] Read String Questions in Interviews.
+  - Strings are arrays of characters
+  - By appending to a string, the string object is actually destroyed and recreated
+- [x] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
+  - Memoization: store intermediate results so that they can be reused in another step of the algorithm without the need to be recalculated
+- [x] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
+  - Elegant algorithm for anagram detection
+  - Figure out the problem solution first and start coding after that
 
 **Arrays**
 
 - [ ] Read Sorting Algorithms
   - Can you memorize one algorithm? What is it?
-- [ ] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
-  - Using a few sentences, describe what you've learned.
-- [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
-  - Using a few sentences, describe what you've learned
+- [x] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
+  - 
+- [x] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
+  - 
 
 **Coding**
 
-- [ ] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
+- [X] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
+  - http://exercism.io/submissions/94fa019b79be4d39b5cad85544d38e1d
+  - http://exercism.io/submissions/6a0f411cad5d4a37bca75cf78eadfb39
+
 
 ### Optional tasks
 
